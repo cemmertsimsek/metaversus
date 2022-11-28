@@ -5,10 +5,10 @@ This is a fictional, metaverse concept of a web application called ***Metaversus
 Navbar | Landing Page with HQ images | Bussiness Stats
 Reusable Feature Sections | CTA Buttons | Testimonials | Clients | Footer |
 
-##### Click the link to see full version of [deployed website.](///////////////////////)
-Also you can click Buraya bi link daha koy
+##### Click the link to see full version of [deployed website.](https://metaversus-cemmertsimsek.vercel.app/)
+Also you can click https://metaversus-cemmertsimsek.vercel.app/
 
-[<img src="bank-app/src/assets/bank-app.JPG" />](https://bank-app-cemmertsimsek.vercel.app/)
+[<img src="public/main1.JPG" />](https://metaversus-cemmertsimsek.vercel.app/)
 
 ## Aim of this project
 Creating a Full **Responsive**, **Front-End**, **React** app about metaverse content and also trying discover some *new features* and learning new *structures* that **Next.JS 13** offers in this last experimental version at the moment.
@@ -60,7 +60,7 @@ You can see the new file structure inside the "app" folder.
 
 [<img src="public/mobile-01.JPG" />](public/mobile-01.JPG) [<img src="public/mobile-02.JPG"/>](public/mobile-02.JPG) [<img src="public/mobile-03.JPG"/>](public/mobile-03.JPG) 
 
-##### Click the link to see full version of [deployed website.](/////////////////////////)
+##### Click the link to see full version of [deployed website.](https://metaversus-cemmertsimsek.vercel.app/)
 
 <hr>
 
