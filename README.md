@@ -1,6 +1,6 @@
 # Metaversus
 
-This is a fictional, metaverse concept of a web application called ***Metaversus*** from a Figma [*Design*](https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?node-id=1%3A4&t=Lv40QTcIDzENJU5c-0). Which additionally contains several animations. Scroll through the sections and enjoy from the animations. Also contains;
+This is a fictional, metaverse concept of a web application called ***Metaversus*** from a Figma [*Design*](https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?node-id=1%3A4&t=eKe6qR5TQtYCda5a-1). Which additionally contains several animations. Scroll through the sections and enjoy from the animations. Also contains;
 
 Navbar | Landing Page with HQ images | Bussiness Stats
 Reusable Feature Sections | CTA Buttons | Testimonials | Clients | Footer |
@@ -42,12 +42,11 @@ You can see the new file structure inside the "app" folder.
     - **NextJS**
     - **ESLint**
 
-### <ins>Visuals
 
 ## Visuals
 ##### Large screen:
 
-[<img src="bank-app/src/assets/bank-app-1.JPG" width="400px"/>](bank-app/src/assets/bank-app-1.JPG) [<img src="bank-app/src/assets/bank-app-2.JPG" width="400px"/>](bank-app/src/assets/bank-app-2.JPG)
+[<img src="metaversus\public\large-01.JPG" width="400px"/>](bank-app/src/assets/bank-app-1.JPG) [<img src="metaversus/src/public/large-01.JPG" width="400px"/>](metaversus/src/public/large-01.JPG)
 
 </br>
 
