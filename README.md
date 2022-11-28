@@ -7,6 +7,7 @@ Reusable Feature Sections | CTA Buttons | Testimonials | Clients | Footer |
 
 ##### Click the link to see full version of [deployed website.](https://metaversus-cemmertsimsek.vercel.app/)
 Also you can click https://metaversus-cemmertsimsek.vercel.app/
+It might take a while to render images and animations. Thanks for you patience.
 
 [<img src="public/main1.JPG" />](https://metaversus-cemmertsimsek.vercel.app/)
 
