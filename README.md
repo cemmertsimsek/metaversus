@@ -39,6 +39,9 @@ You can see the new file structure inside the "app" folder.
 - #### <ins>Other Dependencies
     - **Tailwind CSS**
     - **Framer Motion**
+    - **NextJS**
+    - **ESLint**
+
 ### <ins>Visuals
 
 ## Visuals
