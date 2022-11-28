@@ -5,7 +5,7 @@ This is a fictional, metaverse concept of a web application called ***Metaversus
 Navbar | Landing Page with HQ images | Bussiness Stats
 Reusable Feature Sections | CTA Buttons | Testimonials | Clients | Footer |
 
-##### Click the link to see full version of [deployed website.](www.createlinkhere)
+##### Click the link to see full version of [deployed website.](///////////////////////)
 Also you can click Buraya bi link daha koy
 
 [<img src="bank-app/src/assets/bank-app.JPG" />](https://bank-app-cemmertsimsek.vercel.app/)
@@ -46,21 +46,21 @@ You can see the new file structure inside the "app" folder.
 ## Visuals
 ##### Large screen:
 
-[<img src="metaversus\public\large-01.JPG" width="400px"/>](bank-app/src/assets/bank-app-1.JPG) [<img src="metaversus/src/public/large-01.JPG" width="400px"/>](metaversus/src/public/large-01.JPG)
+[<img src="public/large-01.JPG" width="400px"/>](public/large-01.JPG) [<img src="public/large-02.JPG" width="400px"/>](public/large-02.JPG)
 
 </br>
 
 ##### Tablet screen:
 
-[<img src="bank-app/src/assets/bank-app-tablet1.JPG" />](bank-app/src/assets/bank-app-tablet1.JPG) [<img src="bank-app/src/assets/bank-app-tablet2.JPG" />](bank-app/src/assets/bank-app-tablet2.JPG)
+[<img src="public/tablet-01.JPG" />](public/tablet-01.JPG) [<img src="public/tablet-02.JPG" />](public/tablet-02.JPG)
 
 </br>
 
 ##### Mobile screen:
 
-[<img src="bank-app/src/assets/bank-app-3.JPG" />](bank-app/src/assets/bank-app-3.JPG) [<img src="bank-app/src/assets/bank-app-6.JPG"/>](bank-app/src/assets/bank-app-6.JPG) [<img src="bank-app/src/assets/bank-app-5.JPG"/>](bank-app/src/assets/bank-app-5.JPG) 
+[<img src="public/mobile-01.JPG" />](public/mobile-01.JPG) [<img src="public/mobile-02.JPG"/>](public/mobile-02.JPG) [<img src="public/mobile-03.JPG"/>](public/mobile-03.JPG) 
 
-##### Click the link to see full version of [deployed website.](https://bank-app-cemmertsimsek.vercel.app/)
+##### Click the link to see full version of [deployed website.](/////////////////////////)
 
 <hr>
 
